@@ -1,5 +1,5 @@
 # EX-21-POINTERS
-## NAME : A.RAFSHAAN AHMED
+## NAME : RAFSHAAN AHMED
 ## REG NO : 212224230214
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
